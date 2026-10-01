@@ -7,3 +7,4 @@ en esta fase realice un diagrama de flujo, donde coloque que tenia que llevar mi
 En esta pase realice el código, que coloque todo lo aprendido con anterioridad, aprendiendo muchas cosas en el proceso
 # cuarta fase del proyecto
 En esta fase hice la entrega de mi proyecto colocando todos los documentos necesarios
+Utilizando github para colocar mi programa y mis documentos para que los visualize el profesor
