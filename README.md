@@ -1,9 +1,9 @@
-#VIDEO JUEGO
-#primera fase del proyecto
+# VIDEO JUEGO, MEMORIA
+# primera fase del proyecto
 En esta fase del proyecto aprendí que cosas tiene que llevar un video juego para poder serlo, colocando que se necesita y que cosas puede llevar para niños
-#segunda fase del proyecto
+# segunda fase del proyecto
 en esta fase realice un diagrama de flujo, donde coloque que tenia que llevar mi videojuego para hacerlo después, colocando cosas clave para que se me haga mas fácil realizarlo
-#tercera fase del proyecto 
+# tercera fase del proyecto 
 En esta pase realice el código, que coloque todo lo aprendido con anterioridad, aprendiendo muchas cosas en el proceso
-#cuarta fase del proyecto
+# cuarta fase del proyecto
 En esta fase hice la entrega de mi proyecto colocando todos los documentos necesarios
